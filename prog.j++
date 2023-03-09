@@ -1,1 +1,2 @@
-write(hello world);
+write(Hello world);
+$NewVar(String);
